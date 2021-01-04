@@ -43,7 +43,6 @@ Hypertension,7366,40,Coronary heart disease,Coronary heart disease events (acute
 Hypertension,7388,41,Cough,Cough events,Cough condition record of any type;  successive records with > 90 day gap are considered independent episodes,x,,,,,,
 Hypertension,7394,5,Decreased libido,Persons with decreased libido,The first condition record of decreased libido,x,,,,,,
 Hypertension,7414,42,Dementia,Persons with dementia,The first condition record of dementia,x,,,,,,
-Hypertension,7405,43,Depression,Persons with depression,"The first condition record of depression, which is followed by another depression condition record, at least two drugs used to treat depression without another indication, or two psychotherapy procedures",x,,x,x,,,
 Hypertension,7391,7,Diarrhea,Diarrhea events,Diarrhea condition record of any type;  successive records with > 30 day gap are considered independent episodes,x,,,,,,
 Hypertension,7409,44,Edema,Edema events,Edema condition record of any type;  successive records with > 180 day gap are considered independent episodes,x,,,,,,
 Hypertension,7374,45,End stage renal disease,Persons with end stage renal disease,"The first condition record of end stage renal disease, which is followed by either another end stage renal disease condition record or a dialysis procedure or observation within 90 days",x,,x,,,x,
